@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ddimeski
+- 👋 Hi, I’m Davor Dimeski (@ddimeski)
 - 👀 I’m interested in DevOps & Integrations
 - 🌱 I’m currently learning advanced level python
 - 📫 davor@dimeski.com

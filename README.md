@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ddimeski
 - 👀 I’m interested in DevOps & Integrations
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning advanced level python
 - 📫 davor@dimeski.com
 
 <!---
